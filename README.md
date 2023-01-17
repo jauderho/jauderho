@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jauderho&show_icons=true&count_private=true&custom_title=GitHub%20Stats&theme=material-palenight&include_all_commits=true">
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=jauderho&show_icons=true&count_private=true&custom_title=GitHub%20Stats&theme=material-palenight&include_all_commits=true">
 </p>
